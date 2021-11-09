@@ -1,0 +1,8 @@
+include 'spring-core'
+include 'spring-core-II'
+include 'spring-core-template'
+include 'spring-boot'
+include 'spring-rest'
+include 'spring-rest-II'
+include 'spring-jpa'
+
